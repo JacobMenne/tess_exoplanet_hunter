@@ -1,0 +1,4 @@
+lightkurve
+pandas
+matplotlib
+ipykernel
