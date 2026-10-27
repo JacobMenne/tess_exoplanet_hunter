@@ -1,0 +1,12 @@
+{
+    "TIC ID": "TIC 41460255",
+    "Sectors": 1,
+    "SDE (Signal Strength)": 5.63,
+    "Period (d)": 5.9354,
+    "Transits": "7/8",
+    "Dip SNR": 8.75,
+    "Est. Radius (R_earth)": 2.17,
+    "Odd/Even Diff (%)": 20.8,
+    "JWST TSM": 24.1,
+    "Vetting Verdict": "Weak / Noise Floor"
+}
