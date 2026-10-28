@@ -1,4 +1,8 @@
 lightkurve
+astroquery
+astropy
+numpy
 pandas
 matplotlib
+requests
 ipykernel
