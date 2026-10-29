@@ -1,0 +1,12 @@
+{
+    "TIC ID": "TIC 301608220",
+    "Sectors": 1,
+    "SDE (Signal Strength)": 7.94,
+    "Period (d)": 5.3634,
+    "Transits": "4/4",
+    "Dip SNR": 6.38,
+    "Est. Radius (R_earth)": 2.48,
+    "Odd/Even Diff (%)": 23.2,
+    "JWST TSM": 59.4,
+    "Vetting Verdict": "PASS: Coherent Candidate"
+}

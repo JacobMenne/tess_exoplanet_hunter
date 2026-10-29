@@ -147,3 +147,43 @@ TIC 380155819,1.0,7.1,9.3979,3/3,8.42,3.08,1.7,37.9,PASS: Coherent Candidate
 TIC 388770016,1.0,5.3,6.6542,3/4,4.28,4.8,79.8,53.6,Reject: Odd/Even Asymmetry
 TIC 380577065,1.0,5.54,7.6568,2/3,12.46,7.94,65.1,97.5,Reject: Inconsistent Passes (2/3)
 TIC 397000685,1.0,5.77,6.9807,4/4,8.2,6.27,65.1,79.4,Reject: Odd/Even Asymmetry
+TIC 388843221,1.0,7.73,8.4213,4/4,9.75,6.29,34.3,78.5,PASS: Coherent Candidate
+TIC 388881789,2.0,5.81,10.1801,4/5,11.68,2.5,40.7,53.0,Weak / Noise Floor
+TIC 396937993,1.0,5.9,6.1112,2/2,12.95,4.13,54.7,71.0,Reject: Gap Glitch (2 transits)
+TIC 397000048,2.0,6.55,9.4271,4/5,12.33,1.46,56.2,5.0,Reject: Odd/Even Asymmetry
+TIC 380542451,1.0,6.96,9.9326,3/3,9.62,4.75,38.1,37.8,PASS: Coherent Candidate
+TIC 380543554,1.0,6.91,6.2808,4/4,5.11,5.89,37.3,77.9,PASS: Coherent Candidate
+TIC 388842609,1.0,11.59,1.1572,17/17,1.04,2.62,1.2,90.6,Reject: Wavy/Noisy Baseline (SNR=1.0)
+TIC 380542498,1.0,7.19,11.1391,2/2,20.22,11.17,28.5,121.9,Reject: Gap Glitch (2 transits)
+TIC 291039078,1.0,5.56,9.6455,2/2,15.42,6.71,67.2,69.9,Reject: Gap Glitch (2 transits)
+TIC 301608220,1.0,7.94,5.3634,4/4,6.38,2.48,23.2,59.4,PASS: Coherent Candidate
+TIC 281909458,1.0,8.62,9.1078,2/3,25.11,8.36,47.2,93.9,Reject: Too Large (EB)
+TIC 291038520,1.0,5.91,7.5174,3/3,9.17,7.55,15.9,79.4,Weak / Noise Floor
+TIC 291039447,2.0,6.39,5.173,8/10,4.78,1.42,49.0,4.7,Weak / Noise Floor
+TIC 388905589,1.0,5.2,6.6552,2/4,5.0,3.19,96.9,85.4,Reject: Inconsistent Passes (2/4)
+TIC 350447743,1.0,5.55,6.7738,4/4,9.15,6.39,54.9,57.5,Reject: Odd/Even Asymmetry
+TIC 396928647,2.0,6.62,7.92,4/8,2.26,8.65,79.7,96.4,Reject: Too Large (EB)
+TIC 350499673,1.0,6.17,6.5657,2/4,4.69,6.21,97.7,84.9,Reject: Inconsistent Passes (2/4)
+TIC 380545931,1.0,6.54,10.6648,2/2,9.76,3.52,28.5,42.2,Reject: Gap Glitch (2 transits)
+TIC 350497593,1.0,10.81,1.4162,13/15,1.87,0.99,11.9,15.9,Reject: Wavy/Noisy Baseline (SNR=1.9)
+TIC 380543915,1.0,5.43,6.6167,4/4,5.48,2.22,14.1,37.9,Weak / Noise Floor
+TIC 388803347,1.0,5.42,11.2192,2/3,9.5,6.97,75.7,59.0,Reject: Inconsistent Passes (2/3)
+TIC 425282179,1.0,5.1,8.1176,2/3,10.14,7.33,22.7,76.2,Reject: Inconsistent Passes (2/3)
+TIC 290975310,2.0,5.35,11.3689,3/4,7.51,1.43,78.3,4.2,Reject: Odd/Even Asymmetry
+TIC 388802742,3.0,10.76,4.213,13/16,4.61,2.25,25.6,26.0,PASS: Coherent Candidate
+TIC 291016215,1.0,5.16,11.215,2/2,14.12,6.1,25.1,69.5,Reject: Gap Glitch (2 transits)
+TIC 396955162,1.0,5.23,10.0491,2/2,11.28,2.15,12.5,48.8,Reject: Gap Glitch (2 transits)
+TIC 290905858,1.0,5.24,6.3286,2/4,6.09,5.9,98.1,65.8,Reject: Inconsistent Passes (2/4)
+TIC 363570167,1.0,5.66,10.7282,3/3,13.99,8.48,57.9,83.6,Reject: Too Large (EB)
+TIC 388781093,1.0,5.58,8.7115,3/3,5.28,2.55,13.8,35.2,Weak / Noise Floor
+TIC 291038919,1.0,8.39,6.3858,2/3,7.64,9.47,102.9,154.6,Reject: Too Large (EB)
+TIC 350474936,1.0,5.15,8.2944,2/3,8.0,5.48,71.7,63.7,Reject: Inconsistent Passes (2/3)
+TIC 291008167,1.0,5.92,11.0923,3/3,16.3,6.42,50.2,80.7,Reject: Odd/Even Asymmetry
+TIC 380617564,1.0,6.73,9.1826,3/3,11.74,3.63,42.1,46.0,PASS: Coherent Candidate
+TIC 396937022,1.0,4.77,8.7136,2/2,11.33,3.45,7.9,47.1,Reject: Gap Glitch (2 transits)
+TIC 291038997,1.0,5.45,6.4877,1/2,9.97,7.92,74.3,80.3,Reject: Inconsistent Passes (1/2)
+TIC 396937822,1.0,5.54,6.5969,4/4,5.55,3.55,15.1,45.3,Weak / Noise Floor
+TIC 380617737,1.0,5.09,8.5846,3/3,6.19,2.51,9.6,31.6,Weak / Noise Floor
+TIC 67543465,1.0,8.56,5.5662,4/4,6.69,2.36,31.0,39.6,PASS: Coherent Candidate
+TIC 363516041,1.0,6.58,7.0671,3/3,5.84,2.65,30.9,41.7,PASS: Coherent Candidate
+TIC 396915338,1.0,7.17,4.6031,4/6,5.04,5.48,31.9,63.1,Reject: Inconsistent Passes (4/6)
