@@ -22,6 +22,8 @@ To reduce false positives before manual review, `scan_star_for_transits()` enfor
 
 Passing candidates are also scored using Kempton et al.'s (2018) **Transmission Spectroscopy Metric (TSM)** to estimate suitability for atmospheric characterization with the James Webb Space Telescope (JWST).
 
+![3-Panel Vetting Guide](ref_3panel_guide.png)
+
 ## Distributed Cloud Registry
 
 `02_discovery_scanner.ipynb` connects to a shared Supabase PostgreSQL backend via REST API (with automatic local fallback to `scanned_stars_log.csv` if offline):
